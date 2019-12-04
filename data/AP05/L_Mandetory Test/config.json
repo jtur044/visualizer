@@ -1,0 +1,49 @@
+{
+	"CDPfile"          : "NZXD-2017-Aug-21_100758.txt",
+	"datafile"         : "tracker/NZXD-2017-Aug-21_100758_tracker_output.csv",
+	"mainVideo"        : "NZXD-2017-Aug-21_100758.mp4",
+	"outputVideo"      : "Results/NZXD-2017-Aug-21_100758-FINAL.mp4",
+	"previewMode"      : false,
+
+	"TrialFilter"      : [2, 3, 14, 25],
+
+	"TrialInfo"        : {
+		"Display":  "Basic",
+		"Position": [5, 5]		
+	},
+
+    "InputFields" :  {  "PupilX": "LeftDiffX",
+                        "PupilY": "LeftDiffY",
+                        "PupilVx": "LeftDiffVx",
+                        "PupilVy": "LeftDiffVy" },
+
+    "Graph" : { "showVelocity"     : true,
+                "showDisplacement" : true,
+                "Height"             : 600,
+                "Width"              : null,
+                "DisplacementOffset" : 10,
+                "DisplacementRange"  : 60,
+                "VelocityRange"      : 30,
+                "VelocityOffset"     : -5.00
+            },   
+
+
+	"ObjectiveGraph": {
+		"Position": [680, 570],
+		"PointsFile": ""
+	},             
+
+	"showmsg": 1,
+
+	"dispColor": "g-",
+	"dispColorV": "m-",
+	"dispFontSize": 16,
+	"dispMarkerFaceColor": "g",
+	"dispMarkerEdgeColor": "r",
+	"dispSizeData": 150,
+	"dispYAxis": [0, 600],
+	"dispVelAxisLim": [-3, 3],
+	"dispDispAxisLim": [-5, 5],
+	"dispPosition": [10, 500]
+
+}

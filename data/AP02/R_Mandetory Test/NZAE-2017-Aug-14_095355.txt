@@ -1,0 +1,54 @@
+Test date: 2017-Aug-14 09:53:55
+Report filename: D:\okn\reports\2017\Aug\NZAE-2017-Aug-14_095355.txt
+Software version: 20170811.1
+State: Finished
+Test ID: NZAE
+Patient ID: AP02
+Protocol name: Child Protocol 20170808 - Compulsory – 3 to 4 years
+Protocol ID: 43
+Animation file: D:\okn\assets\Resized - Cars - Clip#1 Opening Race - final.mp4
+Operator: OKN Operator
+Location: Auckland
+Screen distance: 1.5 metres
+Screen dimension: 59.674 x 33.566 cm
+Screen type: Dell S2716DG(DisplayPort)
+Graphics card: NVIDIA GeForce GTX 1050 Ti
+Is nVidia card? Yes
+Is ULMB enabled? Yes
+Resolution = 2560 x 1440 pixels
+Refresh rate = 100 Hz
+Brightness = 75 %
+Contrast = 75 %
+VA units: logMAR
+Mode: Child
+Eye: Right
+Video file: D:\okn\videos\2017\Aug\NZAE-2017-Aug-14_095355.avi
+Notes: OKN 1st
+# Steps executed = 26
+Steps executed:
+	Start Time: 0.0, End Time: 10.0, #1 Message=message=Child Compulsory Test for 3 to 4 years, duration=10, font_size=48, font_color=ccddbb, bg_color=000000
+	Start Time: 37.8, End Time: 44.8, #2 Disk=note=Disk presentation 1, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 53.5, End Time: 60.5, #3 Disk=note=Disk presentation 2, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 69.1, End Time: 76.1, #4 Disk=note=Disk presentation 3, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 91.6, End Time: 98.6, #5 Disk=note=Disk presentation 4, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 108.7, End Time: 115.7, #6 Disk=note=Disk presentation 5, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 124.7, End Time: 131.7, #7 Disk=note=Disk presentation 6, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 139.9, End Time: 146.9, #8 Disk=note=Disk presentation 7, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 151.9, End Time: 158.9, #9 Disk=note=Disk presentation 8, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 166.6, End Time: 173.6, #10 Disk=note=Disk presentation 9, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 257.9, End Time: 264.9, #11 Disk=note=Disk presentation 10, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 287.0, End Time: 294.0, #12 Disk=note=Disk presentation 11, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 312.9, End Time: 319.9, #13 Disk=note=Disk presentation 12, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 325.3, End Time: 332.3, #14 Disk=note=Disk presentation 13, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 338.4, End Time: 345.4, #15 Disk=note=Disk presentation 14, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 350.9, End Time: 357.9, #16 Disk=note=Disk presentation 15, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 365.7, End Time: 372.7, #17 Disk=note=Disk presentation 16, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 380.8, End Time: 387.8, #18 Disk=note=Disk presentation 17, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 393.2, End Time: 400.2, #19 Disk=note=Disk presentation 18, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 406.4, End Time: 413.4, #20 Disk=note=Disk presentation 19, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 426.4, End Time: 433.4, #21 Disk=note=Disk presentation 20, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 442.5, End Time: 449.5, #22 Disk=note=Disk presentation 21, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 461.0, End Time: 468.0, #23 Disk=note=Disk presentation 22, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 473.3, End Time: 480.3, #24 Disk=note=Disk presentation 23, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 503.9, End Time: 510.9, #25 Disk=note=Disk presentation 24, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 529.6, End Time: 536.6, #24 Disk=note=Disk presentation 23, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.4, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0

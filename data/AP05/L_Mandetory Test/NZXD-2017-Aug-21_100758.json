@@ -1,0 +1,204 @@
+{
+    "refresh_rate": 100,
+    "card_name": "NVIDIA GeForce GTX 1050 Ti",
+    "screen_name": "Dell S2716DG(DisplayPort)",
+    "y_res": 1440,
+    "start_time": "2017-Aug-21 10:07:58",
+    "have_screen_data": true,
+    "protocol_id": 41,
+    "user_id": 1,
+    "site_id": 35,
+    "id": 225,
+    "is_valid": true,
+    "eye": "Left",
+    "is_nvidia": true,
+    "patient_uid": "AP05",
+    "brightness": 75,
+    "contrast": 75,
+    "state": "Finished",
+    "screen_height": 33.566,
+    "protocol_name": "Child Protocol 20170808 - Compulsory \u2013 4 to 5 years",
+    "config_id": 1,
+    "mode": "Child",
+    "animation": "D:\\okn\\assets\\Finding Dory - Funny Moments [HD].mp4",
+    "steps_run": {
+        "0": {
+            "end_time": 97.2,
+            "name": "Disk",
+            "number": 1,
+            "args": "note=Disk presentation 1, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.3, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 90.2
+        },
+        "1": {
+            "end_time": 116.4,
+            "name": "Disk",
+            "number": 2,
+            "args": "note=Disk presentation 2, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.3, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 109.4
+        },
+        "2": {
+            "end_time": 132.2,
+            "name": "Disk",
+            "number": 3,
+            "args": "note=Disk presentation 3, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 125.2
+        },
+        "3": {
+            "end_time": 143.3,
+            "name": "Disk",
+            "number": 4,
+            "args": "note=Disk presentation 4, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 136.3
+        },
+        "4": {
+            "end_time": 170.1,
+            "name": "Disk",
+            "number": 5,
+            "args": "note=Disk presentation 5, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 163.1
+        },
+        "5": {
+            "end_time": 179.6,
+            "name": "Disk",
+            "number": 6,
+            "args": "note=Disk presentation 6, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 172.6
+        },
+        "6": {
+            "end_time": 197.4,
+            "name": "Disk",
+            "number": 7,
+            "args": "note=Disk presentation 7, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 190.4
+        },
+        "7": {
+            "end_time": 206.5,
+            "name": "Disk",
+            "number": 8,
+            "args": "note=Disk presentation 8, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 199.5
+        },
+        "8": {
+            "end_time": 218.3,
+            "name": "Disk",
+            "number": 9,
+            "args": "note=Disk presentation 9, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 211.3
+        },
+        "9": {
+            "end_time": 234.3,
+            "name": "Disk",
+            "number": 10,
+            "args": "note=Disk presentation 10, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 227.3
+        },
+        "10": {
+            "end_time": 251.9,
+            "name": "Disk",
+            "number": 11,
+            "args": "note=Disk presentation 11, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.3, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 244.9
+        },
+        "11": {
+            "end_time": 267.2,
+            "name": "Disk",
+            "number": 12,
+            "args": "note=Disk presentation 12, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.3, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 260.2
+        },
+        "12": {
+            "end_time": 287.3,
+            "name": "Disk",
+            "number": 13,
+            "args": "note=Disk presentation 13, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.3, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 280.3
+        },
+        "13": {
+            "end_time": 298.9,
+            "name": "Disk",
+            "number": 14,
+            "args": "note=Disk presentation 14, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.3, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 291.9
+        },
+        "14": {
+            "end_time": 310.4,
+            "name": "Disk",
+            "number": 15,
+            "args": "note=Disk presentation 15, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 303.4
+        },
+        "15": {
+            "end_time": 319.8,
+            "name": "Disk",
+            "number": 16,
+            "args": "note=Disk presentation 16, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 312.8
+        },
+        "16": {
+            "end_time": 341.2,
+            "name": "Disk",
+            "number": 17,
+            "args": "note=Disk presentation 17, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 334.2
+        },
+        "17": {
+            "end_time": 352.7,
+            "name": "Disk",
+            "number": 18,
+            "args": "note=Disk presentation 18, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 345.7
+        },
+        "18": {
+            "end_time": 361.4,
+            "name": "Disk",
+            "number": 19,
+            "args": "note=Disk presentation 19, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 354.4
+        },
+        "19": {
+            "end_time": 374.5,
+            "name": "Disk",
+            "number": 20,
+            "args": "note=Disk presentation 20, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 367.5
+        },
+        "20": {
+            "end_time": 383.4,
+            "name": "Disk",
+            "number": 21,
+            "args": "note=Disk presentation 21, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 376.4
+        },
+        "21": {
+            "end_time": 392.6,
+            "name": "Disk",
+            "number": 22,
+            "args": "note=Disk presentation 22, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.5, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 385.6
+        },
+        "22": {
+            "end_time": 403.8,
+            "name": "Disk",
+            "number": 23,
+            "args": "note=Disk presentation 23, central_intensity=1.0, perimeter_intensity=0.0, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0",
+            "start_time": 396.8
+        },
+        "23": {
+            "end_time": 414.9,
+            "name": "Disk",
+            "number": 24,
+            "args": "note=Disk presentation 24, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0",
+            "start_time": 407.9
+        }
+    },
+    "is_ulmb": true,
+    "test_uid": "NZXD",
+    "test_state": 4,
+    "location": "Auckland",
+    "screen_distance": 1.5,
+    "report_path": "D:\\okn\\reports\\2017\\Aug\\NZXD-2017-Aug-21_100758.json",
+    "notes": "EVA 1st",
+    "x_res": 2560,
+    "video_path": "D:\\okn\\videos\\2017\\Aug\\NZXD-2017-Aug-21_100758.avi",
+    "screen_width": 59.674
+}

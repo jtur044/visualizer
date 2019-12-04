@@ -1,0 +1,85 @@
+{
+    "video_path": "D:\\okn\\videos\\2017\\Sep\\NZMS-2017-Sep-28_125247.avi",
+    "refresh_rate": 100,
+    "test_uid": "NZMS",
+    "have_screen_data": true,
+    "screen_distance": 1.5,
+    "screen_name": "Dell S2716DG(DisplayPort)",
+    "steps_run": {
+        "0": {
+            "name": "Message",
+            "number": 1,
+            "start_time": 0.0,
+            "end_time": 10.0,
+            "args": "message=Child Compulsory Test for 5 Years and Above, duration=10, font_size=48, font_color=ccddbb, bg_color=000000"
+        },
+        "1": {
+            "name": "Disk",
+            "number": 2,
+            "start_time": 13.1,
+            "end_time": 20.1,
+            "args": "note=Disk presentation 1, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0"
+        },
+        "2": {
+            "name": "Disk",
+            "number": 3,
+            "start_time": 22.2,
+            "end_time": 29.2,
+            "args": "note=Disk presentation 2, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0"
+        },
+        "3": {
+            "name": "Disk",
+            "number": 4,
+            "start_time": 30.7,
+            "end_time": 37.7,
+            "args": "note=Disk presentation 3, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0"
+        },
+        "4": {
+            "name": "Disk",
+            "number": 5,
+            "start_time": 39.1,
+            "end_time": 46.1,
+            "args": "note=Disk presentation 4, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0"
+        },
+        "5": {
+            "name": "Disk",
+            "number": 6,
+            "start_time": 47.3,
+            "end_time": 54.3,
+            "args": "note=Disk presentation 5, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0"
+        },
+        "6": {
+            "name": "Disk",
+            "number": 7,
+            "start_time": 55.6,
+            "end_time": 62.6,
+            "args": "note=Disk presentation 6, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0"
+        }
+    },
+    "is_ulmb": false,
+    "config_id": 1,
+    "patient_uid": "TestMS",
+    "location": "Auckland",
+    "card_name": "NVIDIA GeForce GTX 1050 Ti",
+    "eye": "Left",
+    "user_id": 1,
+    "animation": "D:\\okn\\assets\\Resized - Cars - Clip#1 Opening Race - final.mp4",
+    "state": "Finished",
+    "screen_width": 59.674,
+    "protocol_id": 52,
+    "x_res": 2560,
+    "mode": "Child",
+    "protocol_name": "Child Protocol 20170913 - Compulsory \u2013 5 years and above",
+    "test_state": 4,
+    "notes": "",
+    "is_nvidia": true,
+    "site_id": 35,
+    "brightness": 75,
+    "screen_height": 33.566,
+    "contrast": 75,
+    "id": 264,
+    "start_time": "2017-Sep-28 12:52:47",
+    "is_valid": true,
+    "y_res": 1440,
+    "report_path": "D:\\okn\\reports\\2017\\Sep\\NZMS-2017-Sep-28_125247.json"
+}

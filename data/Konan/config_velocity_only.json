@@ -1,0 +1,49 @@
+{
+	"CDPfile"          : "NZMS-2017-Sep-28_125247.txt",
+	"datafile"         : "tracker/NZMS-2017-Sep-28_125247_tracker_output.csv",
+	"mainVideo"        : "NZMS-2017-Sep-28_125247.mp4",
+	"outputVideo"      : "Results/NZMS-2017-Sep-28_125247-FINAL-VELOCITY.mp4",
+	"previewMode"      : false,
+
+	"TrialFilter"      : [1, 2, 3, 4, 5, 6, 7],
+
+	"TrialInfo"        : {
+		"Display":  "Basic",
+		"Position": [5, 5]		
+	},
+
+   
+    "InputFields" :  {  "PupilX": "LeftDiffX",
+                        "PupilY": "LeftDiffY",
+                        "PupilVx": "LeftDiffVx",
+                        "PupilVy": "LeftDiffVy" },
+
+    "Graph" : { "showVelocity"     : true,
+                "showDisplacement" : false,
+                "Height"             : 600,
+                "Width"              : null,
+                "DisplacementOffset" : 0,
+                "DisplacementRange"  : 0,
+                "VelocityRange"      : 10,
+                "VelocityOffset"     : 0
+            },    
+
+	"showmsg": 1,
+	
+
+	"dispColor": "g-",
+	"dispColorV": "m-",
+	"dispFontSize": 16,
+	"dispMarkerFaceColor": "g",
+	"dispMarkerEdgeColor": "r",
+	"dispSizeData": 150,
+	"dispYAxis": [0, 600],
+	"dispVelAxisLim": [-3, 3],
+	"dispDispAxisLim": [-5, 5],
+	"dispPosition": [10, 500],
+
+	"ObjectiveGraph": {
+		"Position": [680, 570],
+		"PointsFile": ""
+	}
+}

@@ -1,0 +1,35 @@
+Test date: 2017-Sep-28 12:52:47
+Report filename: D:\okn\reports\2017\Sep\NZMS-2017-Sep-28_125247.txt
+Software version: 20170811.1
+State: Finished
+Test ID: NZMS
+Patient ID: TestMS
+Protocol name: Child Protocol 20170913 - Compulsory – 5 years and above
+Protocol ID: 52
+Animation file: D:\okn\assets\Resized - Cars - Clip#1 Opening Race - final.mp4
+Operator: OKN Operator
+Location: Auckland
+Screen distance: 1.5 metres
+Screen dimension: 59.674 x 33.566 cm
+Screen type: Dell S2716DG(DisplayPort)
+Graphics card: NVIDIA GeForce GTX 1050 Ti
+Is nVidia card? Yes
+Is ULMB enabled? No
+Resolution = 2560 x 1440 pixels
+Refresh rate = 100 Hz
+Brightness = 75 %
+Contrast = 75 %
+VA units: logMAR
+Mode: Child
+Eye: Left
+Video file: D:\okn\videos\2017\Sep\NZMS-2017-Sep-28_125247.avi
+Notes: 
+# Steps executed = 7
+Steps executed:
+	Start Time: 0.0, End Time: 10.0, #1 Message=message=Child Compulsory Test for 5 Years and Above, duration=10, font_size=48, font_color=ccddbb, bg_color=000000
+	Start Time: 13.1, End Time: 20.1, #2 Disk=note=Disk presentation 1, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 22.2, End Time: 29.2, #3 Disk=note=Disk presentation 2, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 30.7, End Time: 37.7, #4 Disk=note=Disk presentation 3, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 39.1, End Time: 46.1, #5 Disk=note=Disk presentation 4, central_intensity=0.9, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.2, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0
+	Start Time: 47.3, End Time: 54.3, #6 Disk=note=Disk presentation 5, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=left, ramp_time=2.0
+	Start Time: 55.6, End Time: 62.6, #7 Disk=note=Disk presentation 6, central_intensity=0.75, perimeter_intensity=0.45, spacing=0.7, stroke_width=0.7, speed=7.0, disk_type=disk2:1, direction=right, ramp_time=2.0

@@ -1,0 +1,1 @@
+cdp2wtf --cdp "NZMS-2017-Sep-28_125247.json" --mode wtf -m "//nas1.bioeng.auckland.ac.nz/okn" -n "//nas1.bioeng.auckland.ac.nz/okn" -p "Data/Working/Clinical Videos/Konan/" -q "Data/Working/Clinical Videos/Konan/wtf/" --output "NZMS-2017-Sep-28_125247.wtf.json"

@@ -1,0 +1,49 @@
+{
+	"CDPfile"          : "NZAE-2017-Aug-14_095355.txt",
+	"datafile"         : "tracker/NZAE-2017-Aug-14_095355_tracker_output.csv",
+	"mainVideo"        : "NZAE-2017-Aug-14_095355.mp4",
+	"outputVideo"      : "Results/NZAE-2017-Aug-14_095355-FINAL.mp4",
+	"previewMode"      : false,
+
+	"TrialFilter"      : [3, 5, 13, 15],
+
+	"TrialInfo"        : {
+		"Display":  "Basic",
+		"Position": [5, 5]		
+	},
+
+    "InputFields" :  {  "PupilX": "RightDiffX",
+                        "PupilY": "RightDiffY",
+                        "PupilVx": "RightDiffVx",
+                        "PupilVy": "RightDiffVy" },
+
+    "Graph" : { "showVelocity"     : true,
+                "showDisplacement" : true,
+                "Height"             : 600,
+                "Width"              : null,
+                "DisplacementOffset" : 10,
+                "DisplacementRange"  : 60,
+                "VelocityRange"      : 30,
+                "VelocityOffset"     : -5.00
+            },   
+
+
+	"ObjectiveGraph": {
+		"Position": [680, 5],
+		"PointsFile": ""
+	},             
+
+	"showmsg": 1,
+
+	"dispColor": "g-",
+	"dispColorV": "m-",
+	"dispFontSize": 16,
+	"dispMarkerFaceColor": "g",
+	"dispMarkerEdgeColor": "r",
+	"dispSizeData": 150,
+	"dispYAxis": [0, 600],
+	"dispVelAxisLim": [-3, 3],
+	"dispDispAxisLim": [-5, 5],
+	"dispPosition": [10, 500]
+
+}

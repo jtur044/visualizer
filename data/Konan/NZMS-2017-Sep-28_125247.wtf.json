@@ -1,0 +1,417 @@
+{
+    "description": "web.track.face file.",
+    "Author": "Jason Turuwhenua",
+    "date": "---",
+    "version": "v3.0",
+    "steps": [
+        {
+            "id": 1,
+            "request": "mount",
+            "args": {
+                "name": "INPUT",
+                "remote": "//nas1.bioeng.auckland.ac.nz/okn",
+                "local": "shares/input"
+            }
+        },
+        {
+            "id": 2,
+            "request": "mount",
+            "args": {
+                "name": "OUTPUT",
+                "remote": "//nas1.bioeng.auckland.ac.nz/okn",
+                "local": "shares/output"
+            }
+        },
+        {
+            "id": 3,
+            "request": "getvideo",
+            "args": {
+                "filename": "Data/Working/Clinical Videos/Konan/NZMS-2017-Sep-28_125247.mp4"
+            }
+        },
+        {
+            "id": 4,
+            "request": "process",
+            "args": {
+                "number": 2,
+                "start": 13.1,
+                "end": 20.1
+            }
+        },
+        {
+            "id": 5,
+            "request": "save",
+            "args": {
+                "face": 0,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_0.json"
+            }
+        },
+        {
+            "id": 6,
+            "request": "save",
+            "args": {
+                "face": 1,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_1.json"
+            }
+        },
+        {
+            "id": 7,
+            "request": "process",
+            "args": {
+                "number": 3,
+                "start": 22.2,
+                "end": 29.2
+            }
+        },
+        {
+            "id": 8,
+            "request": "save",
+            "args": {
+                "face": 0,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_0.json"
+            }
+        },
+        {
+            "id": 9,
+            "request": "save",
+            "args": {
+                "face": 1,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_1.json"
+            }
+        },
+        {
+            "id": 10,
+            "request": "process",
+            "args": {
+                "number": 4,
+                "start": 30.7,
+                "end": 37.7
+            }
+        },
+        {
+            "id": 11,
+            "request": "save",
+            "args": {
+                "face": 0,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_0.json"
+            }
+        },
+        {
+            "id": 12,
+            "request": "save",
+            "args": {
+                "face": 1,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_1.json"
+            }
+        },
+        {
+            "id": 13,
+            "request": "process",
+            "args": {
+                "number": 5,
+                "start": 39.1,
+                "end": 46.1
+            }
+        },
+        {
+            "id": 14,
+            "request": "save",
+            "args": {
+                "face": 0,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_0.json"
+            }
+        },
+        {
+            "id": 15,
+            "request": "save",
+            "args": {
+                "face": 1,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_1.json"
+            }
+        },
+        {
+            "id": 16,
+            "request": "process",
+            "args": {
+                "number": 6,
+                "start": 47.3,
+                "end": 54.3
+            }
+        },
+        {
+            "id": 17,
+            "request": "save",
+            "args": {
+                "face": 0,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_0.json"
+            }
+        },
+        {
+            "id": 18,
+            "request": "save",
+            "args": {
+                "face": 1,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_1.json"
+            }
+        },
+        {
+            "id": 19,
+            "request": "process",
+            "args": {
+                "number": 7,
+                "start": 55.6,
+                "end": 62.6
+            }
+        },
+        {
+            "id": 20,
+            "request": "save",
+            "args": {
+                "face": 0,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_0.json"
+            }
+        },
+        {
+            "id": 21,
+            "request": "save",
+            "args": {
+                "face": 1,
+                "filename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_1.json"
+            }
+        },
+        {
+            "id": 22,
+            "request": "convert",
+            "args": {
+                "seq": 0,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_0.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_0.csv"
+            }
+        },
+        {
+            "id": 23,
+            "request": "convert",
+            "args": {
+                "seq": 1,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_0.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_0.csv"
+            }
+        },
+        {
+            "id": 24,
+            "request": "convert",
+            "args": {
+                "seq": 2,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_0.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_0.csv"
+            }
+        },
+        {
+            "id": 25,
+            "request": "convert",
+            "args": {
+                "seq": 3,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_0.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_0.csv"
+            }
+        },
+        {
+            "id": 26,
+            "request": "convert",
+            "args": {
+                "seq": 4,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_0.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_0.csv"
+            }
+        },
+        {
+            "id": 27,
+            "request": "convert",
+            "args": {
+                "seq": 5,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_0.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_0.csv"
+            }
+        },
+        {
+            "id": 28,
+            "request": "convert",
+            "args": {
+                "seq": 0,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_1.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_1.csv"
+            }
+        },
+        {
+            "id": 29,
+            "request": "convert",
+            "args": {
+                "seq": 1,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_1.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_1.csv"
+            }
+        },
+        {
+            "id": 30,
+            "request": "convert",
+            "args": {
+                "seq": 2,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_1.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_1.csv"
+            }
+        },
+        {
+            "id": 31,
+            "request": "convert",
+            "args": {
+                "seq": 3,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_1.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_1.csv"
+            }
+        },
+        {
+            "id": 32,
+            "request": "convert",
+            "args": {
+                "seq": 4,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_1.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_1.csv"
+            }
+        },
+        {
+            "id": 33,
+            "request": "convert",
+            "args": {
+                "seq": 5,
+                "inputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_1.json",
+                "outputFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_1.csv"
+            }
+        },
+        {
+            "id": 34,
+            "request": "append",
+            "args": {
+                "seq": 0,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_0.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_0.csv"
+            }
+        },
+        {
+            "id": 35,
+            "request": "append",
+            "args": {
+                "seq": 1,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_0.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_0.csv"
+            }
+        },
+        {
+            "id": 36,
+            "request": "append",
+            "args": {
+                "seq": 2,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_0.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_0.csv"
+            }
+        },
+        {
+            "id": 37,
+            "request": "append",
+            "args": {
+                "seq": 3,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_0.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_0.csv"
+            }
+        },
+        {
+            "id": 38,
+            "request": "append",
+            "args": {
+                "seq": 4,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_0.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_0.csv"
+            }
+        },
+        {
+            "id": 39,
+            "request": "append",
+            "args": {
+                "seq": 5,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_0.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_0.csv"
+            }
+        },
+        {
+            "id": 40,
+            "request": "append",
+            "args": {
+                "seq": 0,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_1.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_13100_20100_face_1.csv"
+            }
+        },
+        {
+            "id": 41,
+            "request": "append",
+            "args": {
+                "seq": 1,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_1.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_22200_29200_face_1.csv"
+            }
+        },
+        {
+            "id": 42,
+            "request": "append",
+            "args": {
+                "seq": 2,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_1.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_30700_37700_face_1.csv"
+            }
+        },
+        {
+            "id": 43,
+            "request": "append",
+            "args": {
+                "seq": 3,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_1.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_39100_46100_face_1.csv"
+            }
+        },
+        {
+            "id": 44,
+            "request": "append",
+            "args": {
+                "seq": 4,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_1.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_47300_54300_face_1.csv"
+            }
+        },
+        {
+            "id": 45,
+            "request": "append",
+            "args": {
+                "seq": 5,
+                "baseFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_face_1.complete.csv",
+                "appendFilename": "Data/Working/Clinical Videos/Konan/wtf/NZMS-2017-Sep-28_125247_55600_62600_face_1.csv"
+            }
+        },
+        {
+            "id": 46,
+            "request": "unmount",
+            "args": {
+                "name": "INPUT"
+            }
+        },
+        {
+            "id": 47,
+            "request": "unmount",
+            "args": {
+                "name": "OUTPUT"
+            }
+        },
+        {
+            "id": 48,
+            "request": "end"
+        }
+    ]
+}

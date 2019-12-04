@@ -1,0 +1,49 @@
+{
+	"baseDirectory": "./data/AP05/L_Mandetory Test",
+	"CDPfile": "NZXD-2017-Aug-21_100758.txt",
+	"datafile": "tracker/NZXD-2017-Aug-21_100758_tracker_output.csv",
+	"mainVideo": "NZXD-2017-Aug-21_100758.mp4",
+	"outputVideo": "NZXD-2017-Aug-21_100758-final.mp4",
+	"previewMode" : true,
+
+	"red": [160, 36, 39],
+	"blue": [29, 8, 138],
+	"black": [0, 0, 0],
+	"white": [255, 255, 255],
+	"green": [0, 255, 0],
+	"magenta": [255, 0, 255],
+
+	"TrialFilter": [2, 12, 14, 24],
+
+	"Subjective": {
+		"DataFile": "../../Pilot study subjective_ASLC LATEST.csv",
+		"Position": [20, 20],
+		"ratingField1": "LC_regraded",
+		"ratingField2": "PG_regraded",
+		"ObjectiveField": "Objective"
+	},
+
+	"TrialInfo": {
+		"Position": [1000, 500]
+	},
+
+	"showmsg": 1,
+	"eyeFieldX": "LeftEyeX",
+	"eyeFieldY": "LeftEyeY",
+	"dispField": "LeftDiffX",
+	"dispFieldV": "LeftDiffVx",
+	"dispColor": "g-",
+	"dispColorV": "m-",
+	"dispFontSize": 16,
+	"dispMarkerFaceColor": "g",
+	"dispMarkerEdgeColor": "r",
+	"dispSizeData": 150,
+	"dispYAxis": [0, 600],
+	"dispVelAxisLim": [-10, 10],
+	"dispDispAxisLim": [-30, 30],
+	"dispPosition": [10, 500],
+	"ObjectiveGraph": {
+		"Position": [750, 20],
+		"PointsFile": ""
+	}
+}
